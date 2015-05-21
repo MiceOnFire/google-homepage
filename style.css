@@ -1,0 +1,55 @@
+.links ul {
+	text-decoration: none;
+}
+
+.links ul a {
+	text-decoration: none;
+	text-align: right;
+	float: right;
+	nounderline:links;
+	color: grey;
+	font-family: sans-serif;
+	font-size: 12px;
+	padding: 2%;
+}
+
+.search{
+	display: inline-block;
+	max-height: 23px;
+	position: relative;
+	left: 50%;
+	vertical-align: middle;
+	opacity: 0.6;
+}
+
+.search .microphone{
+	background-image: url(data:image/gif;base64,R0lGODlhHAAmAKIHAKqqqsvLy0hISObm5vf394uLiwAAAP///yH5BAEAAAcALAAAAAAcACYAAAO9eLpMIMYIQJi9DcYtKv6KtnHgB4yoAZSXKAyDy1rjoAzjzOQLrx8+4OanCAZnxiExGSEKmz3lj2lwUq3SZ3WZPbKuXGgxu9t4tLYDTkpIRQILF0x2G4lWipM7gj/oJQUkcXsCDCIFATULBCIcZ2tvB3QLDxETFnR/BgU/gRt9jX0gnpYMkJZpFzEoqQqJKAIBaQOVKHAXr3t7txgBjboSvB8EpLoFZywOAo3LFE5lYs/QW9LT1TRk1V7S2xYJADs=);
+	background-repeat: no-repeat;
+	background-size: 14px 19px;
+	max-height: 19px;
+	float: right;
+	}
+
+.logo{
+	position: relative;
+	left: 45%;
+	padding-top: 20%;
+	margin-top: 25px;
+}
+
+.logo img{
+	width: 300px;
+}
+
+button {
+	margin: 11px 8px 11px 8px;
+	border: 1px
+	width: 27px;
+	max-height: 80px;
+	font-size: 12px;
+	font-family: sans-serif;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	left: 50%;
+}
